@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a simple portfolio profit calculator system designed to calculate the profit and annualized return of a portfolio between two specified dates. The system is built using Python and includes classes for `Stock`, `Position`, and `Portfolio`. The `Portfolio` class manages a collection of positions (stocks with quantities) and provides methods to calculate the total value, profit, and annualized return of the portfolio.
+This project is a simple portfolio profit calculator system, designed to calculate the profit and annualized return of a portfolio between two specified dates. The system is built using Python and includes classes for `Stock`, `Position`, and `Portfolio`. The `Portfolio` class manages a collection of positions (stocks with quantities) and provides methods to calculate the total value, profit, and annualized return of the portfolio.
 
 ## Features
 
@@ -21,8 +21,7 @@ This project is a simple portfolio profit calculator system designed to calculat
 
 3.  **No sales**: No shares have been sold since they were purchased.
     
-4.  **Shares uniqueness**: Stocks are unique within the portfolio positions.
-
+4.  **Shares uniqueness**: Each stock in the portfolio is unique.
 
 ## Execution
 
