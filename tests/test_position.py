@@ -1,6 +1,6 @@
 import unittest
 from datetime import date, timedelta
-from exceptions.exceptions import PriceNotFoundError
+from exceptions.price_exceptions import PriceNotFoundError
 from models.stock import Stock
 from models.position import Position
 

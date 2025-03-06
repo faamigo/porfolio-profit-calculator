@@ -2,7 +2,7 @@ from datetime import date
 from typing import List, Tuple
 import logging
 
-from exceptions.exceptions import PriceNotFoundError
+from exceptions.price_exceptions import PriceNotFoundError
 from logging_config import configure_logging
 from models.position import Position
 

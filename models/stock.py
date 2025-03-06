@@ -1,5 +1,5 @@
 from datetime import date
-from exceptions.exceptions import PriceNotFoundError
+from exceptions.price_exceptions import PriceNotFoundError
 
 class Stock:
     def __init__(self, symbol: str, price_history: dict[date, float]):
