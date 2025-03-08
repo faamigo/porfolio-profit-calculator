@@ -9,7 +9,7 @@ This project is a simple portfolio profit calculator system, designed to calcula
 - **Stock Class**: Represents a stock with a symbol and price history.
 - **Position Class**: Represents a position in a portfolio, consisting of a stock and the number of shares.
 - **Portfolio Class**: Manages a collection of positions and provides methods to calculate the total value, profit, and annualized return of the portfolio.
-- **Profit Calculation**: Calculates the profit of the portfolio between two specified dates. Optionally calculates the annualized return of the portfolio if `annualized=True`
+- **Profit Calculation**: Calculates the profit of the portfolio between two specified dates. Optionally calculates the annualized return of the portfolio if `annualized=True`.
 - **Date Validation**: Ensures that the provided dates are valid and within acceptable ranges.
 - **Error Handling**: Includes custom exceptions and logging for error handling.
 
