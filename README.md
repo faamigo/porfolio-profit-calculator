@@ -21,7 +21,7 @@ This project is a simple portfolio profit calculator system, designed to calcula
 
 3.  **No sales**: No shares have been sold since they were purchased.
     
-4.  **Shares uniqueness**: Each stock in the portfolio is unique.
+4.  **Stocks uniqueness**: Each stock in the portfolio is unique.
 
 ## Execution
 
